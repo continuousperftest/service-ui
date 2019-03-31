@@ -51,7 +51,7 @@
     "vue-template-compiler": "^2.2.6",
     "vue-rangedate-picker": "^0.3.4",
     "webpack": "^2.6.1",
-    "webpack-dev-server": "^2.4.2",
+    "webpack-dev-server": ">=3.1.11",
     "webpack-merge": "^4.1.0"
   },
   "scripts": {
