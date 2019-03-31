@@ -9,7 +9,7 @@
 - production environment - `config/prod.env.js`
 ```javascript
 module.exports = {
-    ROOT_API: ''  //http://you_server:port
+    ROOT_API: ''  //http://you_backend_server:port
 };
 ```
 
@@ -19,7 +19,7 @@ module.exports = {
 # install dependencies
 npm install
 
-# build for development wtih hot reload at http://localhost:8095
+# build for development wtih hot reload at http://localhost:8080
 npm run dev
 
 # build for production with minification
