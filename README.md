@@ -9,7 +9,7 @@
 - production environment - `config/prod.env.js`
 ```javascript
 module.exports = {
-    ROOT_API: ''  //http://you_backend_server:port
+    ROOT_API: ''  //http://your_backend_server_host:port
 };
 ```
 
