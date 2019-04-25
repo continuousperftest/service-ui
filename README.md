@@ -19,7 +19,7 @@ module.exports = {
 # install dependencies
 npm install
 
-# build for development wtih hot reload at http://localhost:8080
+# build for development with hot reload at http://localhost:8080
 npm run dev
 
 # build for production with minification
